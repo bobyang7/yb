@@ -10,3 +10,8 @@ g = torch.tensor([1, 2, 3])
 h = torch.tensor([4, 5, 6])
 x = torch.tensor([1, 2, 3])
 y = torch.tensor([1, 2, 3])
+
+
+class Solution:
+    def __init__(self):
+        self.a = 1
