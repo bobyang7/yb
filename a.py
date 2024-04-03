@@ -5,4 +5,9 @@ c = torch.tensor([1,2,3])
 d = torch.tensor([5,6,7])
 e = torch.tensor([4,5,6])
 f = torch.tensor([1,2,3])
+<<<<<<< HEAD
 g = torch.tensor([1,2,3])
+=======
+h = torch.tensor([4,5,6])
+
+>>>>>>> add h
